@@ -1,16 +1,16 @@
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "6287821239407"
+global.owner = "19804801076"
 global.dbowner = "./all/database/owner.json"
 global.dbprem = './all/database/premium.json'
-global.namaowner = "𝙑𝙀𝙍𝙇𝘼𝙉𝙂𝙄𝘿"
+global.namaowner = "Andy-MD"
 //======== Setting Bot & Link ========//
-global.namabot = "ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ" 
+global.namabot = "Andy MD" 
 global.idsaluran = false
-global.linkgc = 'https://chat.whatsapp.com/BkzEf70UB2K0MDImEX62hh'
-global.packname = "ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ"
-global.author = "𝙑𝙀𝙍𝙇𝘼𝙉𝙂𝙄𝘿"
+global.linkgc = 'https://whatsapp.com/channel/0029VadOYXAHrDZenm3iMN3u'
+global.packname = "Andy MD"
+global.author = "Andy-MD"
 //========== Setting Event ==========//
 global.welcome = false
 global.autoread = false
@@ -19,7 +19,7 @@ global.anticall = true
 global.delaypushkontak = 7500
 global.delayjpm = 7500
 //========= Setting Url Foto =========//
-global.image = "https://telegra.ph/file/caa9288c34034e5bb8d28.png"
+global.image = "https://telegra.ph/file/f6e09ed41ed41c6897dd8.jpg"
 //========== Setting Panell ==========//
 global.egg = "15"
 global.loc = "1"
@@ -32,7 +32,7 @@ global.dana = "0838-9877-3587"
 global.gopay = "0838-9877-3587"
 global.ovo = "0838-9877-3587"
 global.shopeepay = "0838-9877-3587"
-global.qris = "https://telegra.ph/file/811fb0daa0368b0b9e7bd.jpg"
+global.qris = "https://telegra.ph/file/f6e09ed41ed41c6897dd8.jpg"
 global.bri = "-"
 global.syarat1 = "SERTAKAN BUKTI TF"
 global.syarat2 = "ALL TRX NO REFUND"
