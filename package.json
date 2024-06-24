@@ -1,5 +1,5 @@
 {
-  "name": "ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ",
+  "name": "Andy Tech",
   "version": "11.0.0",
   "description": "WhatsApp Bot 2024",
   "main": "main.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Skyzo Dev",
+  "author": "Andy Dev",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
