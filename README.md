@@ -1,2 +1,1 @@
-# Andy-MD
-I simple WhatsApp bot
+# andybazelais-md
