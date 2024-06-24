@@ -8,13 +8,13 @@
     <img alt="ANDY-MD" width="700" height="300" src="https://telegra.ph/file/f6e09ed41ed41c6897dd8.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/andycreator5/Andy-Md"><img title="Author" src="https://img.shields.io/badge/Andy_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/andycreator5?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/andycreator5/Andy-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/andycreator5/Andy-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/andycreator5/Andy-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/andycreator5?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/andycreator5?label=Followers&style=social"></a>
+<a href="https://github.com/andycreator5/Andy-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/sta910andycreator5/Andy-Md?&style=social"></a>
+<a href="https://github.com/andycreator5/Andy-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/andycreator5/Andy-Md?style=social"></a>
+<a href="https://github.com/andycreator5/Andy-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/andycreator5/Andy-Md?label=Watching&style=social"></a>
   
 ***
 
@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/andycreator5/ANDY-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md.onrender.com) OR [`PAIRING CODE`](https://flash-sessions.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://scan-andy-md.onrender.com) OR [`PAIRING CODE`](https://andy-sessions.onrender.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -37,7 +37,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://france-king.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://andybazelais.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
