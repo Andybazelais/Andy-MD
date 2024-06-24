@@ -171,7 +171,7 @@ case 'addprem': case 'addpremium': {
 		if(users.filter(v => zippokuy.includes(v)).length) return Skyzo.sendMessage(m.chat, { text: `${users.map(v => `@${v.split('@')[0]}`).join(', ')} sudah masuk ke list premium!`, mentions: users }, { quoted: m }) 
 		zippokuy = [...zippokuy, ...users]
 		fs.writeFileSync(dbprem, JSON.stringify(zippokuy)) 
-            m.reply('Successfully added premium by ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ') 
+            m.reply('Successfully added premium by Andy MD') 
 			}
 			break;
 			
@@ -191,12 +191,12 @@ case 'addprem': case 'addpremium': {
             }
         break;
 case ".verlangganteng": {
-let anuan = "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝙑𝙀𝙍𝙇𝘼𝙉𝙂𝙄𝘿"
+let anuan = "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Andy Tech"
 let teksnya = `
 𝐇𝐄𝐋𝐋𝐎 🙋
 
-◦ 𝘉𝘰𝘵 𝘕𝘢𝘮𝘦 : ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
-◦ 𝘖𝘸𝘯 𝘕𝘢𝘮𝘦 : 𝙑𝙀𝙍𝙇𝘼𝙉𝙂𝙄𝘿
+◦ 𝘉𝘰𝘵 𝘕𝘢𝘮𝘦 : Andy MD
+◦ 𝘖𝘸𝘯 𝘕𝘢𝘮𝘦 : Andy Tech 
 ◦ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯 : v3.0
 `
 let msgii = generateWAMessageFromContent(m.chat, { viewOnceMessage: { message: { 
@@ -345,7 +345,7 @@ let teksmenu = `
 * diriku
 * tes
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -364,7 +364,7 @@ let teksmenu = `
 * pinterest
 * qc
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -379,7 +379,7 @@ let teksmenu = `
 * ytmp3
 * mediafire
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -412,7 +412,7 @@ let teksmenu = `
 * setteksjpm
 * teksjpm
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -429,7 +429,7 @@ let teksmenu = `
 * tourl
 * s
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -453,7 +453,7 @@ let teksmenu = `
 * delprem
 * delmember
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -477,14 +477,14 @@ let teksmenu = `
 * leavegc2
 * demote
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
 break
 case "ownermenu": {
 let teksmenu = `
-*ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ 𝗠𝗲𝗻𝘂*
+*Andy MD 𝗠𝗲𝗻𝘂*
 * clearsession
 * anticall
 * autoread
@@ -501,7 +501,7 @@ let teksmenu = `
 * kick
 * del
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+© Andy MD
 `
 Skyzo.sendMessage(m.chat, {text: teksmenu, mentions: [m.sender]}, {quoted: qchanel})
 }
@@ -512,7 +512,7 @@ if (!text) return m.reply(example("Dj Tiktok"))
 await m.reply(msg.wait)
 await yts(text).then(async (data) => {
 if (data.all.length == 0) return m.reply(mess.error)
-let teks = '\n*𝐃𝐨𝐧𝐞 𝐛𝐲 ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ 🥶*\n\n'
+let teks = '\n*𝐃𝐨𝐧𝐞 𝐛𝐲 Andy MD 🥶*\n\n'
 for (let i of data.all) {
 teks += `𝗧𝗶𝘁𝗹𝗲 : ${i.title}
 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 : ${i.author?.name || "unknown"}
@@ -594,7 +594,7 @@ m.reply("Bio has been changed by ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ")
 break
 case "other": {
 var teks = `
-ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ
+Andy MD
 
 LIST PRODUK VERLANGIDCLOUDX 
 • VPS ( DIGITAL OCEAN, LINE NODE, VULTR )
@@ -643,7 +643,7 @@ var teks = `*𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻*
 * motivasi1
 * motivasi2
 
-© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ`
+© Andy MD`
 m.reply(teks)
 }
 
@@ -1965,10 +1965,10 @@ _https://chat.whatsapp.com/BkzEf70UB2K0MDImEX62hh_
 _(ɢᴋ ᴊᴏɪɴ ᴀᴋᴜɴᴍᴜ ᴅᴇʟᴇᴛᴇ)_
 
 𝗦𝗔𝗩𝗘 𝗡𝗠𝗥 𝗢𝗪𝗡𝗘𝗥
-_wa.me/6287821239407_
+_wa.me/19804801076_
 _(save agar tidak hytam😹👿)_
 
-_*© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ*_
+_*© Andy MD*_
 `
 let msgii = generateWAMessageFromContent(m.chat, { viewOnceMessage: { message: { 
 "messageContextInfo": { 
@@ -2157,14 +2157,14 @@ var teks = `
 🆔 *:* ${server.id}
 
 𝗝𝗢𝗜𝗡 𝗚𝗥𝗨𝗣 𝗢𝗪𝗡𝗘𝗥
-_https://chat.whatsapp.com/BkzEf70UB2K0MDImEX62hh_
+_https://chat.whatsapp.com/E2u0mzM3dfCLM7wqzo8ivi
 _(ɢᴋ ᴊᴏɪɴ ᴘᴀɴᴇʟᴍᴜ ᴅᴇʟᴇᴛᴇ)_
 
 𝗦𝗔𝗩𝗘 𝗡𝗠𝗥 𝗢𝗪𝗡𝗘𝗥
-_wa.me/6287821239407_
+_wa.me/19804801076_
 _(save agar tidak hytam)_
 
-_*© ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ*_
+_*© Andy MD*_
 `
 let msgii = generateWAMessageFromContent(m.chat, { viewOnceMessage: { message: { 
 "messageContextInfo": { 
@@ -2290,7 +2290,7 @@ m.reply(`Successfully deleted panel account by ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄ
 break
 case "p": case "sendpayment": case "payment": case "pay": case "listpayment": {
 if (!isOwner) return m.reply(msg.owner)
-let teksnya = `𝗣𝗔𝗬𝗠𝗘𝗡𝗧 ᴠᴄʟᴏᴜᴅx ᴏꜰꜰɪᴄɪᴀʟ📦👇`
+let teksnya = `𝗣𝗔𝗬𝗠𝗘𝗡𝗧 Andy MD📦👇`
 let msgii = generateWAMessageFromContent(m.chat, { viewOnceMessage: { message: { 
 "messageContextInfo": { 
 "deviceListMetadata": {}, 
