@@ -3,16 +3,16 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ANDY-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ANDY+TECH;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="FLASH-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="ANDY-MD" width="700" height="300" src="https://telegra.ph/file/f6e09ed41ed41c6897dd8.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Andycreator5/Andy-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/andycreator5?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/andycreator5/Andy-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/andycreator5/Andy-Md?&style=social"></a>
+<a href="https://github.com/andycreator5/Andy-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
 <a href="https://github.com/andycreator5/Andy-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
 <a href="https://github.com/andycreator5/Andy-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
@@ -49,7 +49,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
-### DEVELOPER:
+### DEVELOPER: Andy Tech 
 **GET In Touch with The Owner**
 - <a href="https://instagram.com/jacmel.509"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
 OR 
@@ -62,7 +62,7 @@ OR
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  ](https://chat.whatsapp.com/HT5iCr4Qy1I2m1i63TKdGo)](https://chat.whatsapp.com/HT5iCr4Qy1I2m1i63TKdGo)">
+  <a href="https://chat.whatsapp.com/HT5iCr4Qy1I2m1i63TKdGo">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -72,7 +72,7 @@ OR
 ### TO JOIN OUR WHATSAPP CHANNEL 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="[https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P](https://whatsapp.com/channel/0029VaEblSaK5cDDgxOzls2O)">
+  <a href="https://whatsapp.com/channel/0029VaEblSaK5cDDgxOzls2O">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
